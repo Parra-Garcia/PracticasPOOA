@@ -1,7 +1,7 @@
 package pack1;
 
 public enum Operaciones {
-	SUMA('+'), RESTA('-'), MULTIPLICACION('*'), DIVISION('/') //variables declaradas
+	SUMA("+"), RESTA("-"), MULTIPLICACION("*"), DIVISION("/"); //variables declaradas
 	
 	private String valor;
 	
